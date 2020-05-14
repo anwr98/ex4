@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main,div{
+    display: block;
+    
+}
+.wrapper{
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+div{
+    
+    margin-top: 10px;
+}
+main{
+    display: flex;
+    
+    
+}
+div .col-sm-10{
+    position: absolute;
+    left: 350px;
+    top: 500px;
+    
+}
+
